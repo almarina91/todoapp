@@ -1,0 +1,1 @@
+export const displayAlert = text => () => alert(`Hello! you clicked on ${text}`);
